@@ -9,7 +9,7 @@ This project explores the latent dimensions of consumption values — Materialis
 ![Scree Plot](https://github.com/Haalibrahim/consumption-sustainability-efa-cfa/blob/main/figures/Figure%201.png)
 
 ## 🧩 CFA Path Diagram
-![CFA Path Diagram](https://github.com/Haalibrahim/consumption-sustainability-efa-cfa/raw/main/figures/Figure3.png)
+![CFA Path Diagram](https://github.com/Haalibrahim/consumption-sustainability-efa-cfa/blob/main/figures/Figure%203.png)
 
 ## 📚 Project Structure
 
