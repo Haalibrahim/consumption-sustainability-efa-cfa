@@ -3,13 +3,14 @@
 This project explores the latent dimensions of consumption values — Materialism, Luxury Orientation, Environmental Consciousness, and Frugality — in Qatar using Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA).
 
 ## Heatmap
-![Heatmap](https://raw.githubusercontent.com/Haalibrahim/consumption-sustainability-efa-cfa/main/figures/Figure%202.png)
+![Heatmap](https://raw.githubusercontent.com/Haalibrahim/consumption-sustainability-efa-cfa/main/figures/efa_heatmap.png)
 
 ## 📈 Scree Plot
-![Scree Plot](https://raw.githubusercontent.com/Haalibrahim/consumption-sustainability-efa-cfa/main/figures/Figure%201.png)
+![Scree Plot](https://raw.githubusercontent.com/Haalibrahim/consumption-sustainability-efa-cfa/main/figures/scree_plot.png)
 
 ## 🧩 CFA Path Diagram
-![CFA Path Diagram](https://raw.githubusercontent.com/Haalibrahim/consumption-sustainability-efa-cfa/main/figures/Figure%203.png)
+![CFA Path Diagram](https://raw.githubusercontent.com/Haalibrahim/consumption-sustainability-efa-cfa/main/figures/cfa_path.png)
+
 
 ## 📚 Project Structure
 
